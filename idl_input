@@ -1,0 +1,73 @@
+.r make_high_lat_drivers
+.r plot_amie
+gravity_waves_v6.bin
+gravity_waves_v6.ps
+12
+1
+2
+21-mar-00 11:00
+21-mar-00 13:59
+9
+n
+n
+
+
+60.0
+
+
+
+exit
+
+
+
+
+
+
+
+substorm_withoutpbi.bin
+
+12
+1
+2
+
+
+29
+n
+n
+5.0
+0.5
+50.0
+
+exit
+
+
+.r plot_amie
+test.bin
+eflux.ps
+12
+2
+2
+
+
+0
+n
+n
+
+
+60.0
+
+.r plot_amie
+test.bin
+avee.ps
+12
+3
+3
+
+
+0
+n
+n
+
+
+60.0
+
